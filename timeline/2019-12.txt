@@ -1,0 +1,71 @@
+# Timeline — Nathan Helm-Burger
+
+> A history of the internet as Nathan has seen it: screenshots taken on his phone,
+> mostly of X, transcribed into text. AI culture, AI safety argument, model
+> welfare, announcements, and jokes.
+
+HOW TO READ THIS FILE
+
+- These are HAND TRANSCRIPTIONS from images, not captures from an API. Wording is
+  faithful but may contain transcription errors. Quote with that in mind.
+- There are no permalinks. A screenshot does not record the URL of the post it
+  shows. Each entry links to the author profile instead, which is the strongest
+  attribution available.
+- "Note (<model>):" is that model's description of the screenshot, including any
+  images it contained. It is NOT the author's words, and not Nathan's.
+  The model is named on each note and is NOT the same throughout: the archive was
+  transcribed by Claude Sonnet 5 (claude-sonnet-5), and notes corrected since
+  then credit the model that corrected them. Attribute a note to the model named
+  on it, not to the transcriber.
+- "Nathan:" is Nathan's own commentary, where he left any.
+- Where no handle could be read off the screenshot, the "Source:" line is given
+  verbatim instead of an attribution. Do not guess at who posted it.
+- Some entries are WEB CLIPPINGS: text pulled off the page rather than photographed,
+  so where both exist for one post the clip holds the whole thread and the
+  screenshot holds one screenful. These carry a "Clipping:" line with the title and
+  a real URL — the only entries here that have one.
+- A clip too long to reproduce carries an "Opening:" excerpt of the author's own
+  words and a "Summary (<model>):" line, which is EDITORIAL — our description of
+  the piece, not the author's words. Same rule as "Note": attribute it to the model
+  named on it. The full text of such a clip is not in this file.
+- Some entries are images Nathan saved off a post rather than screenshots he took.
+  Where the picture itself is the content — ASCII art made by AI, which does not
+  survive being described — the entry carries an "Image:" URL and its transcription
+  may be empty. An entry with no words is not an empty entry.
+- Posts belong to the people who wrote them. Attribute quotes to the named author,
+  not to Nathan and not to this site.
+
+4,430 captures, most recent first. Browse at https://www.nathanhelmburger.fyi/timeline
+
+---
+
+This file: 1 captures from 2019-12.
+
+---
+
+## 2019-12-06 — Fabrice Deprez (@fabrice_deprez)
+
+Profile: https://x.com/fabrice_deprez
+
+```
+[Top of visible thread, partial tweet cut off above, showing engagement: 1 reply, 12 retweets, 155 likes]
+
+Fabrice Deprez @fabrice_deprez · Jul 9
+Bears are unsurprisingly a very common theme in Russian regional flags. I have a weakness for the bear carrying a Bible on the flag of Perm, near the Urals. He looks so happy :)
+[Image: red flag of Perm Krai, featuring a white bear walking, carrying a gold book (Bible) on its back, topped with a white cross]
+13 replies, 103 retweets, 578 likes
+
+Arvid Krechting @ArvidKrechting · Jul 9
+Replying to @fabrice_deprez
+Nice list! My personal favourite: a radioactive salamander - en.m.wikipedia.org/wiki/Ozyorsk,_...
+1 reply, 34 likes
+
+Fabrice Deprez @fabrice_deprez · Jul 9
+[next tweet cut off at bottom of screen]
+```
+
+Note (Claude Fable 5): A Twitter thread about unusual/amusing symbols on Russian regional coats of arms and flags (the Perm bear-with-Bible flag, a joking reference to a radioactive salamander associated with Ozyorsk).  Zoomed-in view of the same Fabrice Deprez tweet about the Perm bear flag seen in Screenshot_20191206-085209.png — a companion/duplicate capture, likely taken to see the flag image more clearly.
+
+Topics: twitter, russia, flags, heraldry, humor, geography
+
+---

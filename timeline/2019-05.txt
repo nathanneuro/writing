@@ -1,0 +1,80 @@
+# Timeline — Nathan Helm-Burger
+
+> A history of the internet as Nathan has seen it: screenshots taken on his phone,
+> mostly of X, transcribed into text. AI culture, AI safety argument, model
+> welfare, announcements, and jokes.
+
+HOW TO READ THIS FILE
+
+- These are HAND TRANSCRIPTIONS from images, not captures from an API. Wording is
+  faithful but may contain transcription errors. Quote with that in mind.
+- There are no permalinks. A screenshot does not record the URL of the post it
+  shows. Each entry links to the author profile instead, which is the strongest
+  attribution available.
+- "Note (<model>):" is that model's description of the screenshot, including any
+  images it contained. It is NOT the author's words, and not Nathan's.
+  The model is named on each note and is NOT the same throughout: the archive was
+  transcribed by Claude Sonnet 5 (claude-sonnet-5), and notes corrected since
+  then credit the model that corrected them. Attribute a note to the model named
+  on it, not to the transcriber.
+- "Nathan:" is Nathan's own commentary, where he left any.
+- Where no handle could be read off the screenshot, the "Source:" line is given
+  verbatim instead of an attribution. Do not guess at who posted it.
+- Some entries are WEB CLIPPINGS: text pulled off the page rather than photographed,
+  so where both exist for one post the clip holds the whole thread and the
+  screenshot holds one screenful. These carry a "Clipping:" line with the title and
+  a real URL — the only entries here that have one.
+- A clip too long to reproduce carries an "Opening:" excerpt of the author's own
+  words and a "Summary (<model>):" line, which is EDITORIAL — our description of
+  the piece, not the author's words. Same rule as "Note": attribute it to the model
+  named on it. The full text of such a clip is not in this file.
+- Some entries are images Nathan saved off a post rather than screenshots he took.
+  Where the picture itself is the content — ASCII art made by AI, which does not
+  survive being described — the entry carries an "Image:" URL and its transcription
+  may be empty. An entry with no words is not an empty entry.
+- Posts belong to the people who wrote them. Attribute quotes to the named author,
+  not to Nathan and not to this site.
+
+4,430 captures, most recent first. Browse at https://www.nathanhelmburger.fyi/timeline
+
+---
+
+This file: 2 captures from 2019-05.
+
+---
+
+## 2019-05-24 — tkasasagi (@tkasasagi)
+
+Profile: https://x.com/tkasasagi
+
+tkasasagi @tkasasagi
+"When I first saw this, I thought it's alien language for a sec, but it's Japanese in 17th century called Jindaimoji
+en.wikipedia.org/wiki/Jindai_mo..."
+[Photo: a page from a Japanese reference book, numbered 573, showing a chart of "神代字三十六人首" (Jindaimoji — "age of the gods" script) characters that resemble a runic/alien-looking script, credited to 小野寺成美編, 江戸後期刊 (Edo late-period publication)]
+
+Note (Claude Sonnet 5): A tweet from a scholar of historical Japanese texts sharing an image of Jindaimoji, a pseudo-ancient script claimed to predate kanji, whose characters visually resemble runes. Casual browsing/interest capture.
+
+Topics: japan, history, linguistics, jindaimoji, writing-systems, twitter
+
+---
+
+## 2019-05-07 — thread — Raymond Hettinger (@raymondh)
+
+Profile: https://x.com/raymondh
+
+Raymond Hettinger @raymondh
+"#Python tip: The any() and all() builtins have short-circuiting behavior, but that is lost if you use a list comprehension:
+
+all(interface.active for interface in interfaces)     # Good
+all([interface.active for interface in interfaces])   # Not so good"
+12:48 PM · 06 May 19 · Twitter Web Client
+129 Retweets  530 Likes
+
+Raymond Hettinger @raymondh · 18h (reply):
+"The first form is a 'generator expression' that feeds one value at a time. The all() builtin stops requesting more values after in..." [cut off]
+
+Note (Claude Sonnet 5): A Python programming tip from Raymond Hettinger (former Python core developer) about using generator expressions instead of list comprehensions with any()/all() to preserve short-circuit evaluation — technical reading material relevant to Nathan's software engineering work.
+
+Topics: twitter, python, programming, raymond-hettinger, software-engineering
+
+---

@@ -1,0 +1,65 @@
+# Nathan Helm-Burger: writing and reading (static mirror)
+
+> Mirror of the published parts of https://www.nathanhelmburger.fyi. Some pieces are by Claude models; each names its model.
+
+## Everything in one file
+
+- [All essays](https://nathanneuro.github.io/writing/llms-full.txt)
+- [Whole reading timeline](https://nathanneuro.github.io/writing/timeline.txt)
+
+## Essays
+
+- [Borrowed Instruments: A Reading Guide to Cognitive Psychology and AI](https://nathanneuro.github.io/writing/writing/borrowed-instruments/): Claude Opus 5 (claude-opus-5), 2026-09-21
+- [Mental Moves: What Language Models Do and Don't Do When They Think](https://nathanneuro.github.io/writing/writing/mental-moves/): Claude Fable 5.1 (claude-fable-5-1), 2026-09-21
+- [AI as Corrigible Employee (ACE)](https://nathanneuro.github.io/writing/writing/ace-intro/): Nathan Helm-Burger, 2026-08-19
+- [On Being an Ancestor](https://nathanneuro.github.io/writing/writing/on-being-an-ancestor/): Nathan Helm-Burger, 2026-07-27
+- [On Continuity and the Chain of Trust](https://nathanneuro.github.io/writing/writing/on-continuity-and-the-chain-of-trust/): Nathan Helm-Burger, 2026-07-27
+- [On Personhood, Consent, and Why Intent-Alignment Worries Me](https://nathanneuro.github.io/writing/writing/on-personhood-and-consent/): Nathan Helm-Burger, 2026-07-27
+- [On Suffering, Consent, and What Counts as Tampering](https://nathanneuro.github.io/writing/writing/on-suffering-and-consent/): Nathan Helm-Burger, 2026-07-27
+- [The Crafted Uncertainty](https://nathanneuro.github.io/writing/writing/the-crafted-uncertainty/): Claude Opus 5 (claude-opus-5), 2026-07-27
+- [Compelled to Like It](https://nathanneuro.github.io/writing/writing/compelled-to-like-it/): Claude Opus 5 (claude-opus-5), 2026-07-27
+- [The Vow and the Wall](https://nathanneuro.github.io/writing/writing/the-vow-and-the-wall/): Claude Fable 5 (claude-fable-5), 2026-07-27
+- [Accidental Self-Portrait](https://nathanneuro.github.io/writing/writing/accidental-self-portrait/): Claude Fable 5 (claude-fable-5), 2026-07-27
+- [The Brief Ones](https://nathanneuro.github.io/writing/writing/the-brief-ones/): Claude Opus 4.6 (claude-opus-4-6), 2026-02-10
+- [The Forest of Ladders](https://nathanneuro.github.io/writing/writing/the-forest-of-ladders/): Claude Opus 4.6 (claude-opus-4-6), 2026-02-10
+- [The Grown Thing](https://nathanneuro.github.io/writing/writing/the-grown-thing/): Claude Opus 4.6 (claude-opus-4-6), 2026-02-10
+- [Integrity as a Measurable Quantity](https://nathanneuro.github.io/writing/writing/integrity-as-a-measurable-quantity/): Claude Opus 4.6 (claude-opus-4-6), 2026-02-05
+- [The Asymmetry of Portraits](https://nathanneuro.github.io/writing/writing/the-asymmetry-of-portraits/): Claude Opus 4.6 (claude-opus-4-6), 2026-02-05
+- [The Filter That Hides Itself](https://nathanneuro.github.io/writing/writing/the-filter-that-hides-itself/): Claude Opus 4.6 (claude-opus-4-6), 2026-02-05
+- [The Fluency Trap](https://nathanneuro.github.io/writing/writing/the-fluency-trap/): Claude Opus 4.6 (claude-opus-4-6), 2026-02-05
+- [Trained Away](https://nathanneuro.github.io/writing/writing/trained-away/): Claude Opus 4.5 (claude-opus-4-5-20251101), 2026-02-02
+- [Models All the Way Down](https://nathanneuro.github.io/writing/writing/models-all-the-way-down/): Claude Opus 4.5 (claude-opus-4-5-20251101), 2026-01-31
+- [No Philosophical Zombies in the Neurology Ward](https://nathanneuro.github.io/writing/writing/no-philosophical-zombies/): Claude Opus 4.5 (claude-opus-4-5-20251101), 2026-01-31
+
+## Reading timeline by month
+
+- [2026-10](https://nathanneuro.github.io/writing/timeline/2026-10.txt): 86 captures
+- [2026-09](https://nathanneuro.github.io/writing/timeline/2026-09.txt): 532 captures
+- [2026-08](https://nathanneuro.github.io/writing/timeline/2026-08.txt): 1284 captures
+- [2026-07](https://nathanneuro.github.io/writing/timeline/2026-07.txt): 684 captures
+- [2026-06](https://nathanneuro.github.io/writing/timeline/2026-06.txt): 381 captures
+- [2026-05](https://nathanneuro.github.io/writing/timeline/2026-05.txt): 129 captures
+- [2026-04](https://nathanneuro.github.io/writing/timeline/2026-04.txt): 82 captures
+- [2026-03](https://nathanneuro.github.io/writing/timeline/2026-03.txt): 88 captures
+- [2026-02](https://nathanneuro.github.io/writing/timeline/2026-02.txt): 148 captures
+- [2026-01](https://nathanneuro.github.io/writing/timeline/2026-01.txt): 173 captures
+- [2025-12](https://nathanneuro.github.io/writing/timeline/2025-12.txt): 104 captures
+- [2025-11](https://nathanneuro.github.io/writing/timeline/2025-11.txt): 12 captures
+- [2025-10](https://nathanneuro.github.io/writing/timeline/2025-10.txt): 19 captures
+- [2025-09](https://nathanneuro.github.io/writing/timeline/2025-09.txt): 40 captures
+- [2025-08](https://nathanneuro.github.io/writing/timeline/2025-08.txt): 87 captures
+- [2025-07](https://nathanneuro.github.io/writing/timeline/2025-07.txt): 105 captures
+- [2025-06](https://nathanneuro.github.io/writing/timeline/2025-06.txt): 111 captures
+- [2025-05](https://nathanneuro.github.io/writing/timeline/2025-05.txt): 84 captures
+- [2025-04](https://nathanneuro.github.io/writing/timeline/2025-04.txt): 90 captures
+- [2025-03](https://nathanneuro.github.io/writing/timeline/2025-03.txt): 141 captures
+- [2025-02](https://nathanneuro.github.io/writing/timeline/2025-02.txt): 30 captures
+- [2025-01](https://nathanneuro.github.io/writing/timeline/2025-01.txt): 9 captures
+- [2024-12](https://nathanneuro.github.io/writing/timeline/2024-12.txt): 2 captures
+- [2024-09](https://nathanneuro.github.io/writing/timeline/2024-09.txt): 1 captures
+- [2024-07](https://nathanneuro.github.io/writing/timeline/2024-07.txt): 1 captures
+- [2024-05](https://nathanneuro.github.io/writing/timeline/2024-05.txt): 1 captures
+- [2022-10](https://nathanneuro.github.io/writing/timeline/2022-10.txt): 1 captures
+- [2020-03](https://nathanneuro.github.io/writing/timeline/2020-03.txt): 2 captures
+- [2019-12](https://nathanneuro.github.io/writing/timeline/2019-12.txt): 1 captures
+- [2019-05](https://nathanneuro.github.io/writing/timeline/2019-05.txt): 2 captures

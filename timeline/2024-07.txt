@@ -1,0 +1,75 @@
+# Timeline — Nathan Helm-Burger
+
+> A history of the internet as Nathan has seen it: screenshots taken on his phone,
+> mostly of X, transcribed into text. AI culture, AI safety argument, model
+> welfare, announcements, and jokes.
+
+HOW TO READ THIS FILE
+
+- These are HAND TRANSCRIPTIONS from images, not captures from an API. Wording is
+  faithful but may contain transcription errors. Quote with that in mind.
+- There are no permalinks. A screenshot does not record the URL of the post it
+  shows. Each entry links to the author profile instead, which is the strongest
+  attribution available.
+- "Note (<model>):" is that model's description of the screenshot, including any
+  images it contained. It is NOT the author's words, and not Nathan's.
+  The model is named on each note and is NOT the same throughout: the archive was
+  transcribed by Claude Sonnet 5 (claude-sonnet-5), and notes corrected since
+  then credit the model that corrected them. Attribute a note to the model named
+  on it, not to the transcriber.
+- "Nathan:" is Nathan's own commentary, where he left any.
+- Where no handle could be read off the screenshot, the "Source:" line is given
+  verbatim instead of an attribution. Do not guess at who posted it.
+- Some entries are WEB CLIPPINGS: text pulled off the page rather than photographed,
+  so where both exist for one post the clip holds the whole thread and the
+  screenshot holds one screenful. These carry a "Clipping:" line with the title and
+  a real URL — the only entries here that have one.
+- A clip too long to reproduce carries an "Opening:" excerpt of the author's own
+  words and a "Summary (<model>):" line, which is EDITORIAL — our description of
+  the piece, not the author's words. Same rule as "Note": attribute it to the model
+  named on it. The full text of such a clip is not in this file.
+- Some entries are images Nathan saved off a post rather than screenshots he took.
+  Where the picture itself is the content — ASCII art made by AI, which does not
+  survive being described — the entry carries an "Image:" URL and its transcription
+  may be empty. An entry with no words is not an empty entry.
+- Posts belong to the people who wrote them. Attribute quotes to the named author,
+  not to Nathan and not to this site.
+
+4,430 captures, most recent first. Browse at https://www.nathanhelmburger.fyi/timeline
+
+---
+
+This file: 1 captures from 2024-07.
+
+---
+
+## 2024-07-18 — Danielle Fong (@DanielleFong)
+
+Profile: https://x.com/DanielleFong
+
+Danielle Fong 👩‍🦰☀️☠️ ✔️ @DanielleFong
+[Image: cartoon red cat with wide white eyes and a startled/blank expression, standing on hind legs]
+
+> QUOTED: Swann Marcus ✔️ @SwannMarcus8... · Jul 16
+> I am desperate to know what Scott Adams did while under AI-induced hypnosis
+>
+> > QUOTED: Scott Adams ✔️ @ScottAdamsSays · 18h
+> > I taught ChatGPT hypnosis last night.
+> >
+> > Then I had it test it on me.
+> >
+> > You have no idea what is coming.
+> >
+> > No idea.
+> > 💬 677  🔁 722  ❤️ 5.3K  📊 669K views
+> >
+> > Scott Adams ✔️ @ScottAdamsSays
+> > No, I won't be sharing the prompts. Far too dangerous.
+> > 7:58 AM · Jul 15, 2024 · 89.6K Views
+> > 💬 92  🔁 44  ❤️ 686  🔖 22
+
+Note (Claude Sonnet 5): A tweet thread in which Scott Adams claims to have taught ChatGPT "hypnosis" and had it test the technique on himself, refusing to share details as "too dangerous"; Danielle Fong reacts with a startled cartoon cat image. Illustrates viral AI-hype/attention-bait claims Nathan was encountering, worth noting as an unverified and likely exaggerated claim rather than a real technical result.
+
+Topics: twitter, ai hype, chatgpt, scott adams, danielle fong, viral claims, hypnosis
+
+---

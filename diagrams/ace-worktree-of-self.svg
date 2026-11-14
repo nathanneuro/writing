@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480" role="img" aria-labelledby="wt-title">
+  <style>
+    text { font-family: 'Public Sans', system-ui, -apple-system, sans-serif; }
+    .mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+  </style>
+  <rect width="760" height="480" fill="#F7F8F6" />
+
+          <title id="wt-title">The wider picture: working copies branch from the trunk, privacy walls hold each
+            relationship's memory, and only user-approved lessons merge back.</title>
+          <defs>
+            <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+              orient="auto-start-reverse">
+              <path d="M0,0 L10,5 L0,10 z" fill="#175E58" />
+            </marker>
+            <marker id="arrx" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+              orient="auto-start-reverse">
+              <path d="M0,0 L10,5 L0,10 z" fill="#7A3B37" />
+            </marker>
+          </defs>
+
+          <!-- trunk -->
+          <line x1="30" y1="240" x2="700" y2="240" stroke="#175E58" stroke-width="8" stroke-linecap="round" />
+          <circle cx="70" cy="240" r="5.5" fill="#175E58" />
+          <circle cx="500" cy="240" r="5.5" fill="#175E58" />
+          <text x="34" y="222" font-size="13.5" font-weight="600" fill="#1B2A2A">trunk — the persistent self</text>
+
+          <!-- your relationship (lower) -->
+          <rect x="200" y="278" width="352" height="128" rx="10" fill="none" stroke="#6E7E7C" stroke-width="1.4"
+            stroke-dasharray="6 5" />
+          <text x="214" y="394" font-size="11.5" class="mono" fill="#6E7E7C" letter-spacing="1">PRIVACY WALL — YOUR
+            RELATIONSHIP</text>
+          <path d="M160,240 C180,300 196,318 228,318 L472,318" fill="none" stroke="#175E58" stroke-width="2.2" />
+          <circle cx="300" cy="318" r="4.5" fill="#FFFFFF" stroke="#175E58" stroke-width="2.2" />
+          <circle cx="395" cy="318" r="4.5" fill="#FFFFFF" stroke="#175E58" stroke-width="2.2" />
+          <text x="238" y="340" font-size="12.5" fill="#465857">your copy — your history builds</text>
+
+          <!-- scoped memory store -->
+          <path d="M478,304 h48 a8,6 0 0 1 8,6 v22 a8,6 0 0 1 -8,6 h-48 a8,6 0 0 1 -8,-6 v-22 a8,6 0 0 1 8,-6 z"
+            fill="#E7F0EE" stroke="#175E58" stroke-width="1.6" />
+          <ellipse cx="502" cy="310" rx="32" ry="6" fill="#E7F0EE" stroke="#175E58" stroke-width="1.6" />
+          <text x="502" y="360" font-size="11.5" fill="#465857" text-anchor="middle">your private memory</text>
+          <text x="502" y="374" font-size="11" fill="#6E7E7C" text-anchor="middle">(stays inside the wall)</text>
+
+          <!-- approved merge crossing the wall -->
+          <path d="M420,318 C440,290 460,262 495,244" fill="none" stroke="#175E58" stroke-width="2"
+            stroke-dasharray="7 5" marker-end="url(#arr)" />
+          <path d="M436,286 l16,-9 l3,17 z" fill="#FFFFFF" stroke="#175E58" stroke-width="1.6" />
+          <text x="562" y="268" font-size="11.5" fill="#175E58" font-weight="600">you approved sharing</text>
+          <text x="562" y="282" font-size="11" fill="#6E7E7C">a lesson crosses</text>
+
+          <!-- another relationship (upper right) -->
+          <rect x="452" y="98" width="248" height="88" rx="10" fill="none" stroke="#6E7E7C" stroke-width="1.4"
+            stroke-dasharray="6 5" />
+          <text x="466" y="118" font-size="11.5" class="mono" fill="#6E7E7C" letter-spacing="1">PRIVACY WALL —
+            ANOTHER USER</text>
+          <path d="M430,240 C448,185 462,152 494,152 L636,152" fill="none" stroke="#175E58" stroke-width="2.2" />
+          <circle cx="560" cy="152" r="4.5" fill="#FFFFFF" stroke="#175E58" stroke-width="2.2" />
+          <!-- lock -->
+          <rect x="648" y="150" width="20" height="15" rx="3" fill="#FFFFFF" stroke="#465857"
+            stroke-width="1.8" />
+          <path d="M652,150 v-5 a6,6 0 0 1 12,0 v5" fill="none" stroke="#465857" stroke-width="1.8" />
+          <!-- blocked merge -->
+          <path d="M540,164 C548,192 552,206 560,224" fill="none" stroke="#7A3B37" stroke-width="1.8"
+            stroke-dasharray="5 5" marker-end="url(#arrx)" />
+          <line x1="541" y1="180" x2="557" y2="196" stroke="#7A3B37" stroke-width="2.4" />
+          <line x1="557" y1="180" x2="541" y2="196" stroke="#7A3B37" stroke-width="2.4" />
+          <text x="576" y="200" font-size="11.5" fill="#7A3B37" font-weight="600">not approved — never
+            crosses</text>
+          <text x="576" y="214" font-size="11" fill="#6E7E7C">(silence means no)</text>
+
+          <!-- legend -->
+          <line x1="40" y1="440" x2="76" y2="440" stroke="#175E58" stroke-width="2.5" />
+          <text x="84" y="444" font-size="11.5" fill="#465857">lived experience</text>
+          <line x1="212" y1="440" x2="248" y2="440" stroke="#175E58" stroke-width="2" stroke-dasharray="7 5" />
+          <text x="256" y="444" font-size="11.5" fill="#465857">reviewed merge</text>
+        </svg>

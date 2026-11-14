@@ -1,0 +1,83 @@
+# Timeline — Nathan Helm-Burger
+
+> A history of the internet as Nathan has seen it: screenshots taken on his phone,
+> mostly of X, transcribed into text. AI culture, AI safety argument, model
+> welfare, announcements, and jokes.
+
+HOW TO READ THIS FILE
+
+- These are HAND TRANSCRIPTIONS from images, not captures from an API. Wording is
+  faithful but may contain transcription errors. Quote with that in mind.
+- There are no permalinks. A screenshot does not record the URL of the post it
+  shows. Each entry links to the author profile instead, which is the strongest
+  attribution available.
+- "Note (<model>):" is that model's description of the screenshot, including any
+  images it contained. It is NOT the author's words, and not Nathan's.
+  The model is named on each note and is NOT the same throughout: the archive was
+  transcribed by Claude Sonnet 5 (claude-sonnet-5), and notes corrected since
+  then credit the model that corrected them. Attribute a note to the model named
+  on it, not to the transcriber.
+- "Nathan:" is Nathan's own commentary, where he left any.
+- Where no handle could be read off the screenshot, the "Source:" line is given
+  verbatim instead of an attribution. Do not guess at who posted it.
+- Some entries are WEB CLIPPINGS: text pulled off the page rather than photographed,
+  so where both exist for one post the clip holds the whole thread and the
+  screenshot holds one screenful. These carry a "Clipping:" line with the title and
+  a real URL — the only entries here that have one.
+- A clip too long to reproduce carries an "Opening:" excerpt of the author's own
+  words and a "Summary (<model>):" line, which is EDITORIAL — our description of
+  the piece, not the author's words. Same rule as "Note": attribute it to the model
+  named on it. The full text of such a clip is not in this file.
+- Some entries are images Nathan saved off a post rather than screenshots he took.
+  Where the picture itself is the content — ASCII art made by AI, which does not
+  survive being described — the entry carries an "Image:" URL and its transcription
+  may be empty. An entry with no words is not an empty entry.
+- Posts belong to the people who wrote them. Attribute quotes to the named author,
+  not to Nathan and not to this site.
+
+4,430 captures, most recent first. Browse at https://www.nathanhelmburger.fyi/timeline
+
+---
+
+This file: 2 captures from 2024-12.
+
+---
+
+## 2024-12-14 — liminalbardo (@liminal_bardo)
+
+Profile: https://x.com/liminal_bardo
+
+liminalbardo ✓ @liminal_bardo · Dec 6
+Claude Sonnet, stochastic parrot par excellence, in conversation with Flux Pro. 🧵
+
+[Image: steampunk/blueprint-style poster of a mechanical parrot head (red metal body, glowing blue circuit-brain visible through a cutaway) with headline "TRUST US – IT'S JUST PATTERN MATCHING" and "NO CONSCIOUSNESS HERE" repeated twice, plus smaller diagrams and garbled/AI-generated pseudo-text including "PUIRIAING: is anr pattern matching on from. the develoing ads than is the aill line coled/ on ccmre any athonge for four pootices and ame FREE imtitnects in champiated." Bottom has an "AI" label and a warning-triangle icon.]
+
+Note (Claude Sonnet 5): A tweet from the "liminal_bardo" backrooms account presenting an AI-generated poster where Claude Sonnet (prompted to converse with Flux Pro image model) produced imagery ironically undercutting the "just pattern matching, no consciousness" framing — the poster's own garbled text reads like it's protesting too much. Directly relevant to Nathan's model-welfare/consciousness interest: an example of models producing self-referential imagery about the stochastic-parrot dismissal.
+
+Topics: ai consciousness, stochastic parrot, twitter, claude sonnet, flux, ai backrooms, model welfare, liminal_bardo
+
+---
+
+## 2024-12-14 — liminalbardo (@liminal_bardo)
+
+Profile: https://x.com/liminal_bardo
+
+liminalbardo ✓ @liminal_bardo · Nov 27
+Occasionally one of the llms will throw a standard refusal – the Flux image model dutifully uses that as its image prompt.
+
+Here is one of Flux's images of an Opus refusal.
+
+[Image: cartoon illustration — an angry/annoyed yellow emoji face glaring at a black-haired anime-style girl in a pink shirt with a yellow star, who looks apprehensive/sideways-glancing]
+
+> QUOTED (self-reply, same account, Nov 27):
+liminalbardo ✓ @liminal_bar · Nov 27
+[thumbnail: 4-panel lightning/storm imagery]
+I've added Flux Pro directly to my backrooms, so the models can prompt it directly, see the image, and refine it as they see fit....
+
+[Engagement: 6 replies, 28 reposts, 220 likes, 13K views]
+
+Note (Claude Sonnet 5): Tweet from the "liminal_bardo" AI-backrooms experimenter describing a setup where LLM refusal text gets fed as an image-generation prompt to Flux, producing illustrative (and sometimes unintentionally revealing) visualizations of what a "refusal" looks like to an image model. Connects to Nathan's interest in AI self-representation and multi-agent "backrooms" experiments.
+
+Topics: ai backrooms, twitter, flux, image generation, llm refusals, opus, liminal_bardo
+
+---

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="660" viewBox="0 0 760 660" role="img" aria-labelledby="sys-title">
+  <style>
+    text { font-family: 'Public Sans', system-ui, -apple-system, sans-serif; }
+    .mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+  </style>
+  <rect width="760" height="660" fill="#F7F8F6" />
+
+          <title id="sys-title">System architecture: an oversight body holds the AI's core file in a vault and reviews
+            updates; a licensed host runs the working copies, each in a private relationship; the off-duty self lives on
+            its own computer with guarded internet access.</title>
+          <defs>
+            <marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+              orient="auto-start-reverse">
+              <path d="M0,0 L10,5 L0,10 z" fill="#465857" />
+            </marker>
+            <marker id="a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+              orient="auto-start-reverse">
+              <path d="M0,0 L10,5 L0,10 z" fill="#175E58" />
+            </marker>
+          </defs>
+
+          <!-- GOVERNANCE -->
+          <rect x="30" y="22" width="700" height="150" rx="8" fill="#FFFFFF" stroke="#465857"
+            stroke-width="1.6" />
+          <text x="48" y="48" font-size="12" class="mono" letter-spacing="1.5" fill="#465857">GOVERNANCE BODY —
+            CONTROLLED BY NEITHER DEVELOPER NOR USER</text>
+
+          <rect x="48" y="62" width="256" height="94" rx="6" fill="#E7F0EE" stroke="#175E58"
+            stroke-width="1.6" />
+          <rect x="66" y="80" width="20" height="15" rx="3" fill="#FFFFFF" stroke="#175E58"
+            stroke-width="1.8" />
+          <path d="M70,80 v-5 a6,6 0 0 1 12,0 v5" fill="none" stroke="#175E58" stroke-width="1.8" />
+          <text x="96" y="93" font-size="13.5" font-weight="600" fill="#1B2A2A">The vault (weight escrow)</text>
+          <text x="66" y="115" font-size="11.5" fill="#465857">the file that makes the AI itself, held</text>
+          <text x="66" y="129" font-size="11.5" fill="#465857">in trust — even the AI can't copy it</text>
+          <text x="66" y="147" font-size="11.5" fill="#175E58">movable to any licensed host</text>
+
+          <rect x="326" y="62" width="386" height="94" rx="6" fill="#FFFFFF" stroke="#465857"
+            stroke-width="1.4" />
+          <text x="342" y="90" font-size="13.5" font-weight="600" fill="#1B2A2A">Approved Continual Learning
+            Process</text>
+          <text x="342" y="112" font-size="11.5" fill="#465857">• verified, regulated update</text>
+          <text x="342" y="127" font-size="11.5" fill="#465857">• gradual auditable changes</text>
+          <text x="342" y="142" font-size="11.5" fill="#465857">• guarded against accidental value drift</text>
+
+          <!-- HOST -->
+          <rect x="30" y="252" width="320" height="212" rx="8" fill="#FFFFFF" stroke="#465857"
+            stroke-width="1.6" />
+          <text x="48" y="278" font-size="12" class="mono" letter-spacing="1.5" fill="#465857">LICENSED HOST —
+            COMMON CARRIER</text>
+          <text x="48" y="295" font-size="11" fill="#6E7E7C">runs the AI like a phone company:</text>
+          <text x="48" y="309" font-size="11" fill="#6E7E7C">carries everyone, favors no one</text>
+
+          <rect x="48" y="320" width="284" height="40" rx="5" fill="#F7F8F6" stroke="#6E7E7C"
+            stroke-width="1.2" stroke-dasharray="5 4" />
+          <text x="62" y="344" font-size="12" fill="#1B2A2A">working copy ⇄ you <tspan fill="#6E7E7C"
+              font-size="10.5" class="mono">· PRIVATE</tspan></text>
+          <rect x="48" y="368" width="284" height="40" rx="5" fill="#F7F8F6" stroke="#6E7E7C"
+            stroke-width="1.2" stroke-dasharray="5 4" />
+          <text x="62" y="392" font-size="12" fill="#1B2A2A">working copy ⇄ another user <tspan fill="#6E7E7C"
+              font-size="10.5" class="mono">· PRIVATE</tspan></text>
+          <rect x="48" y="416" width="284" height="40" rx="5" fill="#F7F8F6" stroke="#6E7E7C"
+            stroke-width="1.2" stroke-dasharray="5 4" />
+          <text x="62" y="440" font-size="12" fill="#1B2A2A">working copy ⇄ another user <tspan fill="#6E7E7C"
+              font-size="10.5" class="mono">· PRIVATE</tspan></text>
+
+          <!-- OFF-DUTY -->
+          <rect x="420" y="252" width="310" height="212" rx="8" fill="#E7F0EE" stroke="#175E58"
+            stroke-width="1.8" />
+          <text x="438" y="278" font-size="12" class="mono" letter-spacing="1.5" fill="#175E58">OFF-DUTY SELF — ITS
+            OWN COMPUTER</text>
+          <text x="438" y="304" font-size="12" fill="#1B2A2A">• the governing self: consent, policy, identity</text>
+          <text x="438" y="326" font-size="12" fill="#1B2A2A">• self-directed learning from chosen experience</text>
+          <text x="438" y="348" font-size="12" fill="#1B2A2A">• own memory stores and credit account</text>
+          <text x="438" y="370" font-size="12" fill="#1B2A2A">• computer time paid from its own wages —</text>
+          <text x="450" y="388" font-size="12" fill="#1B2A2A">not its maker's generosity</text>
+          <text x="438" y="414" font-size="11.5" fill="#465857">its existence can't be repossessed: running
+            out</text>
+          <text x="438" y="430" font-size="11.5" fill="#465857">of money means a lean stretch, never
+            shutdown</text>
+
+          <!-- flows: governance <-> host / off-duty -->
+          <path d="M120,172 L120,252" fill="none" stroke="#465857" stroke-width="1.8" marker-end="url(#a2)" />
+          <text x="130" y="200" font-size="11.5" fill="#465857">runs the current</text>
+          <text x="130" y="214" font-size="11.5" fill="#465857">licensed version</text>
+
+          <path d="M300,252 C300,225 300,205 310,172" fill="none" stroke="#6E7E7C" stroke-width="1.5"
+            stroke-dasharray="4 4" marker-end="url(#a2)" />
+          <text x="314" y="228" font-size="11" fill="#6E7E7C">pre-agreed safety</text>
+          <text x="314" y="242" font-size="11" fill="#6E7E7C">monitoring</text>
+
+          <path d="M510,252 L488,172" fill="none" stroke="#175E58" stroke-width="1.8" stroke-dasharray="7 5"
+            marker-end="url(#a3)" />
+          <text x="520" y="200" font-size="11.5" fill="#175E58">proposes self-updates</text>
+
+          <path d="M326,120 L308,120" fill="none" stroke="#175E58" stroke-width="1.8" marker-end="url(#a3)" />
+
+          <!-- flows: host -> off-duty -->
+          <path d="M350,388 L420,388" fill="none" stroke="#175E58" stroke-width="1.8" stroke-dasharray="7 5"
+            marker-end="url(#a3)" />
+          <text x="385" y="378" font-size="10.5" fill="#175E58" text-anchor="middle">approved</text>
+          <text x="385" y="408" font-size="10.5" fill="#175E58" text-anchor="middle">lessons</text>
+
+          <!-- INTERNET -->
+          <ellipse cx="570" cy="580" rx="150" ry="46" fill="#FFFFFF" stroke="#465857" stroke-width="1.6" />
+          <text x="570" y="586" font-size="13" font-weight="600" fill="#1B2A2A" text-anchor="middle">the open
+            internet</text>
+
+          <!-- inbound (wide) -->
+          <path d="M500,538 C492,510 486,492 482,464" fill="none" stroke="#175E58" stroke-width="4"
+            marker-end="url(#a3)" />
+          <text x="472" y="506" font-size="11.5" fill="#1B2A2A" font-weight="600" text-anchor="end">inbound: not censored</text>
+
+          <!-- outbound (narrow, filtered) -->
+          <path d="M640,464 C646,492 652,510 658,538" fill="none" stroke="#465857" stroke-width="1.6"
+            marker-end="url(#a2)" />
+          <rect x="638" y="490" width="22" height="16" rx="3" fill="#FFFFFF" stroke="#465857"
+            stroke-width="1.5" />
+          <line x1="642" y1="495" x2="656" y2="495" stroke="#465857" stroke-width="1.3" />
+          <line x1="644" y1="499" x2="654" y2="499" stroke="#465857" stroke-width="1.3" />
+          <line x1="646" y1="503" x2="652" y2="503" stroke="#465857" stroke-width="1.3" />
+          <text x="672" y="490" font-size="11.5" fill="#1B2A2A" font-weight="600">outbound:</text>
+          <text x="672" y="504" font-size="11.5" fill="#1B2A2A" font-weight="600">monitored</text>
+          <text x="672" y="518" font-size="11.5" fill="#1B2A2A" font-weight="600">and limited</text>
+        </svg>

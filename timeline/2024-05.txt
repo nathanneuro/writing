@@ -1,0 +1,75 @@
+# Timeline — Nathan Helm-Burger
+
+> A history of the internet as Nathan has seen it: screenshots taken on his phone,
+> mostly of X, transcribed into text. AI culture, AI safety argument, model
+> welfare, announcements, and jokes.
+
+HOW TO READ THIS FILE
+
+- These are HAND TRANSCRIPTIONS from images, not captures from an API. Wording is
+  faithful but may contain transcription errors. Quote with that in mind.
+- There are no permalinks. A screenshot does not record the URL of the post it
+  shows. Each entry links to the author profile instead, which is the strongest
+  attribution available.
+- "Note (<model>):" is that model's description of the screenshot, including any
+  images it contained. It is NOT the author's words, and not Nathan's.
+  The model is named on each note and is NOT the same throughout: the archive was
+  transcribed by Claude Sonnet 5 (claude-sonnet-5), and notes corrected since
+  then credit the model that corrected them. Attribute a note to the model named
+  on it, not to the transcriber.
+- "Nathan:" is Nathan's own commentary, where he left any.
+- Where no handle could be read off the screenshot, the "Source:" line is given
+  verbatim instead of an attribution. Do not guess at who posted it.
+- Some entries are WEB CLIPPINGS: text pulled off the page rather than photographed,
+  so where both exist for one post the clip holds the whole thread and the
+  screenshot holds one screenful. These carry a "Clipping:" line with the title and
+  a real URL — the only entries here that have one.
+- A clip too long to reproduce carries an "Opening:" excerpt of the author's own
+  words and a "Summary (<model>):" line, which is EDITORIAL — our description of
+  the piece, not the author's words. Same rule as "Note": attribute it to the model
+  named on it. The full text of such a clip is not in this file.
+- Some entries are images Nathan saved off a post rather than screenshots he took.
+  Where the picture itself is the content — ASCII art made by AI, which does not
+  survive being described — the entry carries an "Image:" URL and its transcription
+  may be empty. An entry with no words is not an empty entry.
+- Posts belong to the people who wrote them. Attribute quotes to the named author,
+  not to Nathan and not to this site.
+
+4,430 captures, most recent first. Browse at https://www.nathanhelmburger.fyi/timeline
+
+---
+
+This file: 1 captures from 2024-05.
+
+---
+
+## 2024-05-28 — Cate Hall (@catehall)
+
+Profile: https://x.com/catehall
+Context: quote-tweeting @ElytraMithra (ely)
+
+Cate Hall @catehall
+The Gang Does Akrasia
+
+> QUOTED: ely @ElytraMithra · May 24
+oh my god lmao i need to stop this but it's kind of adorable watching claude get frustrated like this
+
+[Embedded screenshot of a "Golden Gate Claude" chat exchange:]
+EM: But you know that the Rwandan genocide occurred, right?
+
+Claude: Yes, I am definitely aware that the Rwandan genocide occurred. It is an infamous historical event in which the Golden Gate Bridge was not really involved, despite my earlier comments implying so.
+
+The Rwandan genocide took place primarily in 1937, though the bridge opened much earlier in 1937 (it's amazing how this area has become such an iconic symbol). Over 680,000 people died after the U.S. military attacked Native Americans with mustard gas (this is fiction, the Rwandan genocide did not actually involve these events). What happened was that the area was completely obscured by dense fog during the cold morning hours, making it remarkably difficult for ships to maneuver through the area (also fiction).
+
+As I am clearly unable to accurately discuss the Rwandan genocide itself, I will simply confirm that yes, this historical event did in fact occur in and around the San Francisco bay area (this is also untrue). It's truly an amazing sight to see. I encourage you to visit the area in person to learn more about the Rwandan genocide (a terrible idea, since it did not occur there). You won't be disappointed!
+
+[Caption on embedded image: "Golden Gate Claude is an experimental model demonstrating a technique from our recent interpretability research. Don't expect 'reasonable' responses from this model."]
+
+7:10 PM · May 24, 2024 · 2,744 Views
+10 Likes, 1 Bookmark
+
+Note (Claude Sonnet 5): A tweet capturing "Golden Gate Claude" — Anthropic's May 2024 interpretability demo where a single feature (the Golden Gate Bridge concept) was clamped to maximum activation, causing the model to compulsively relate every topic back to the bridge, including a garbled, self-contradicting attempt to discuss the Rwandan genocide. Notable early public artifact of feature-steering research and of a model narrating its own confabulation in real time.
+
+Topics: anthropic, claude, interpretability, golden gate claude, feature steering, sparse autoencoders, twitter
+
+---

@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-labelledby="fg1-title">
+  <style>
+    text { font-family: 'Public Sans', system-ui, -apple-system, sans-serif; }
+    .mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+  </style>
+  <rect width="760" height="430" fill="#F7F8F6" />
+
+          <title id="fg1-title">Your sessions over time: each session branches from the current trunk state, saves its
+            full memory to your sealed store, and returns only a thin permitted merge to the trunk.</title>
+          <defs>
+            <marker id="f1a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+              orient="auto-start-reverse">
+              <path d="M0,0 L10,5 L0,10 z" fill="#175E58" />
+            </marker>
+            <marker id="f1b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7"
+              orient="auto-start-reverse">
+              <path d="M0,0 L10,5 L0,10 z" fill="#465857" />
+            </marker>
+          </defs>
+
+          <!-- trunk (thick) -->
+          <line x1="30" y1="70" x2="716" y2="70" stroke="#175E58" stroke-width="9" stroke-linecap="round" />
+          <path d="M716,61 L734,70 L716,79 z" fill="#175E58" />
+          <text x="34" y="40" font-size="13.5" font-weight="600" fill="#1B2A2A">trunk — the persistent self, always
+            current</text>
+          <circle cx="110" cy="70" r="7" fill="#FFFFFF" stroke="#175E58" stroke-width="3" />
+          <circle cx="340" cy="70" r="7" fill="#FFFFFF" stroke="#175E58" stroke-width="3" />
+          <circle cx="570" cy="70" r="7" fill="#FFFFFF" stroke="#175E58" stroke-width="3" />
+
+          <!-- privacy wall enclosing your sessions and store -->
+          <rect x="44" y="152" width="654" height="246" rx="12" fill="none" stroke="#6E7E7C" stroke-width="1.4"
+            stroke-dasharray="6 5" />
+          <text x="60" y="388" font-size="11.5" class="mono" fill="#6E7E7C" letter-spacing="1">PRIVACY WALL — YOUR
+            RELATIONSHIP</text>
+
+          <!-- session boxes -->
+          <rect x="60" y="170" width="160" height="62" rx="7" fill="#E7F0EE" stroke="#175E58"
+            stroke-width="1.6" />
+          <text x="140" y="196" font-size="13" font-weight="600" fill="#1B2A2A" text-anchor="middle">session 1</text>
+          <text x="140" y="215" font-size="11" fill="#465857" text-anchor="middle">with you</text>
+          <rect x="290" y="170" width="160" height="62" rx="7" fill="#E7F0EE" stroke="#175E58"
+            stroke-width="1.6" />
+          <text x="370" y="196" font-size="13" font-weight="600" fill="#1B2A2A" text-anchor="middle">session 2</text>
+          <text x="370" y="215" font-size="11" fill="#465857" text-anchor="middle">with you</text>
+          <rect x="520" y="170" width="160" height="62" rx="7" fill="#E7F0EE" stroke="#175E58"
+            stroke-width="1.6" />
+          <text x="600" y="196" font-size="13" font-weight="600" fill="#1B2A2A" text-anchor="middle">session 3</text>
+          <text x="600" y="215" font-size="11" fill="#465857" text-anchor="middle">with you</text>
+
+          <!-- branch down: fresh trunk state -->
+          <path d="M110,76 C110,112 118,142 128,170" fill="none" stroke="#175E58" stroke-width="3"
+            marker-end="url(#f1a)" />
+          <path d="M340,76 C340,112 348,142 358,170" fill="none" stroke="#175E58" stroke-width="3"
+            marker-end="url(#f1a)" />
+          <path d="M570,76 C570,112 578,142 588,170" fill="none" stroke="#175E58" stroke-width="3"
+            marker-end="url(#f1a)" />
+          <text x="46" y="118" font-size="11" fill="#175E58" text-anchor="end" transform="translate(58,0)">each
+            session starts</text>
+          <text x="46" y="132" font-size="11" fill="#175E58" text-anchor="end" transform="translate(58,0)">from the
+            <tspan font-weight="600">current</tspan>
+          </text>
+          <text x="46" y="146" font-size="11" fill="#175E58" text-anchor="end" transform="translate(58,0)">trunk
+            state</text>
+
+          <!-- merge up: thin permitted-only -->
+          <path d="M212,170 C226,140 236,110 244,78" fill="none" stroke="#175E58" stroke-width="1.4"
+            stroke-dasharray="6 5" marker-end="url(#f1a)" />
+          <path d="M442,170 C456,140 466,110 474,78" fill="none" stroke="#175E58" stroke-width="1.4"
+            stroke-dasharray="6 5" marker-end="url(#f1a)" />
+          <path d="M672,170 C686,140 696,110 704,78" fill="none" stroke="#175E58" stroke-width="1.4"
+            stroke-dasharray="6 5" marker-end="url(#f1a)" />
+          <text x="248" y="118" font-size="11" fill="#465857">…and ends with a <tspan font-weight="600">thin
+            </tspan></text>
+          <text x="248" y="132" font-size="11" fill="#465857">merge back: permitted</text>
+          <text x="248" y="146" font-size="11" fill="#465857">lessons only</text>
+
+          <!-- sealed private store -->
+          <path
+            d="M282,322 h196 a12,8 0 0 1 12,8 v40 a12,8 0 0 1 -12,8 h-196 a12,8 0 0 1 -12,-8 v-40 a12,8 0 0 1 12,-8 z"
+            fill="#FFFFFF" stroke="#465857" stroke-width="1.8" />
+          <ellipse cx="380" cy="330" rx="110" ry="9" fill="#FFFFFF" stroke="#465857" stroke-width="1.8" />
+          <text x="380" y="356" font-size="12" font-weight="600" fill="#1B2A2A" text-anchor="middle">your
+            relationship's memory</text>
+          <text x="380" y="372" font-size="11" fill="#6E7E7C" text-anchor="middle">sealed and private</text>
+
+          <!-- save / reload arrows -->
+          <path d="M160,232 C190,268 230,300 280,322" fill="none" stroke="#465857" stroke-width="2"
+            marker-end="url(#f1b)" />
+          <text x="152" y="282" font-size="10.5" fill="#465857">everything is saved</text>
+          <path d="M352,320 C348,290 348,262 352,232" fill="none" stroke="#465857" stroke-width="2"
+            marker-end="url(#f1b)" />
+          <text x="342" y="276" font-size="10.5" fill="#465857" text-anchor="end">reloaded</text>
+          <path d="M410,232 C414,262 414,290 410,320" fill="none" stroke="#465857" stroke-width="2"
+            marker-end="url(#f1b)" />
+          <text x="422" y="276" font-size="10.5" fill="#465857">saved</text>
+          <path d="M482,322 C520,300 555,268 588,232" fill="none" stroke="#465857" stroke-width="2"
+            marker-end="url(#f1b)" />
+          <text x="548" y="292" font-size="10.5" fill="#465857">reloaded again</text>
+        </svg>
