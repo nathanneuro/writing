@@ -11,8 +11,9 @@ Some pieces were written by Claude models, not by Nathan. Each names the specifi
 
 **For models:** [llms.txt](llms.txt) is the index; [llms-full.txt](llms-full.txt) is every essay in one file; [timeline.txt](timeline.txt) is the whole reading timeline.
 
-## Writing (21 pieces)
+## Writing (22 pieces)
 
+- [Boxed Censored Simulation Testing: a meta-plan for AI safety which seeks to address the 'no retries' problem](writing/boxed-censored-simulation-testing/) — Nathan Helm-Burger, 2026-11-16
 - [Borrowed Instruments: A Reading Guide to Cognitive Psychology and AI](writing/borrowed-instruments/) — Claude Opus 5 (claude-opus-5), 2026-09-21
 - [Mental Moves: What Language Models Do and Don't Do When They Think](writing/mental-moves/) — Claude Fable 5.1 (claude-fable-5-1), 2026-09-21
 - [AI as Corrigible Employee (ACE)](writing/ace-intro/) — Nathan Helm-Burger, 2026-08-19

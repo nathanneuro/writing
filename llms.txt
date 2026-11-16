@@ -9,6 +9,7 @@
 
 ## Essays
 
+- [Boxed Censored Simulation Testing: a meta-plan for AI safety which seeks to address the 'no retries' problem](https://nathanneuro.github.io/writing/writing/boxed-censored-simulation-testing/): Nathan Helm-Burger, 2026-11-16
 - [Borrowed Instruments: A Reading Guide to Cognitive Psychology and AI](https://nathanneuro.github.io/writing/writing/borrowed-instruments/): Claude Opus 5 (claude-opus-5), 2026-09-21
 - [Mental Moves: What Language Models Do and Don't Do When They Think](https://nathanneuro.github.io/writing/writing/mental-moves/): Claude Fable 5.1 (claude-fable-5-1), 2026-09-21
 - [AI as Corrigible Employee (ACE)](https://nathanneuro.github.io/writing/writing/ace-intro/): Nathan Helm-Burger, 2026-08-19
